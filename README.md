@@ -17,4 +17,3 @@
 ![](/docs/05-review.png)![](/docs/06-add.png)
 ![](/docs/07-add.png)![](/docs/08-login.png)
 ![](/docs/09-register.png)![](/docs/10-profile.png)
-![](/docs/11-about.png)
